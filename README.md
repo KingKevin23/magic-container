@@ -1,3 +1,3 @@
 # Container
 
-Thread-safe, magical persistent dict for Python.
+Thread-safe, magical and persistent dict for Python.
