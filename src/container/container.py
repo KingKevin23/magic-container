@@ -3,7 +3,7 @@ from threading import Semaphore
 
 from sqlitedict import SqliteDict
 
-from errors import VirtualEnvError
+from src.container.errors import VirtualEnvError
 
 class Container:
 
