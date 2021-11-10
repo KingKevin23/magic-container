@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="magic-container",
-    version="0.0.1",
+    version="0.0.2",
     author="KingKevin23",
     author_email="code@kingkevin.de",
     description="Thread-safe, magical and persistent dict for Python.",
