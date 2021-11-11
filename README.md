@@ -2,6 +2,14 @@
 
 Thread-safe, lightweight and persistent dict for Python with a magical touch.
 
+## Contents
+
+<!---
+* [Features](#features)
+-->
+* [Installation](#installation) 
+* [Examples](#examples) 
+
 ### Installation:
 
 `pip install magic-container`
