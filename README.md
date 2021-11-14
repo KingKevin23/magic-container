@@ -31,7 +31,7 @@ Or get the values while setting them if there aren't in the container:
 ```python
 from container import container
 
-print(container["second_key"], lambda: 23)
+print(container.get("second_key", lambda: 23))
 ```
 
 ### Limitations:
