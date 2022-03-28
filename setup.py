@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="magic-container",
-    version="0.0.3",
+    version="0.0.4",
     author="KingKevin23",
     author_email="code@kingkevin.de",
     description="Thread-safe, magical and persistent dict for Python.",
@@ -22,7 +22,7 @@ setup(
     ],
     package_dir={"": "src"},
     packages=find_packages(where="src"),
-    python_requires=">=3.9",
+    python_requires=">=3.8",
     install_requires=[
         "sqlitedict>=1.7.0"
     ],
